@@ -15,3 +15,5 @@ https://www.gnome-look.org/p/1366371 - purple dark icons
 https://www.pling.com/p/1695467/ - medium bordered modern buttoms
 
 i dont think i forgot nun ion know
+
+polybar uses ubuntu nerd font
