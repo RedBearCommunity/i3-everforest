@@ -1,0 +1,17 @@
+MOVE "cachysmall" to home, make sure inside the neofetch is named properly.
+
+move "alabaster" into https://github.com/alacritty/alacritty-theme /usr/lib/node_modules/alacritty-themes/themes/Alabaster.toml
+
+move wallpaper2.png into Downloads
+
+https://github.com/PrayagS/polybar-spotify https://github.com/uniquepointer/polywins
+
+https://github.com/Comfy-Themes/Spicetify - this with everforest
+
+https://picom.app/ main picom
+
+https://www.gnome-look.org/p/1366371 - purple dark icons
+
+https://www.pling.com/p/1695467/ - medium bordered modern buttoms
+
+i dont think i forgot nun ion know
