@@ -22,6 +22,6 @@ polybar uses ubuntu nerd font
 
 block 
 
-www.youtube.com###background
+```www.youtube.com###background```
 
 on ublock orgin since the youtube theme blows and i skidded the living fuck out of it
