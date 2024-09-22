@@ -6,6 +6,8 @@ move wallpaper2.png into Downloads
 
 https://github.com/PrayagS/polybar-spotify https://github.com/uniquepointer/polywins
 
+i use spicetify for spotify themes 
+^    ^
 https://github.com/Comfy-Themes/Spicetify - this with everforest
 
 https://picom.app/ main picom
